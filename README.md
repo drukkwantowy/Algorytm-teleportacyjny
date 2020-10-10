@@ -1,0 +1,1 @@
+# Algorytm-teleportacyjny
